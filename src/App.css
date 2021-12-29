@@ -1,0 +1,9 @@
+.links {
+  display: flex;
+  gap: 3rem;
+}
+.links {
+  display: flex;
+  gap: 3rem;
+  height: 300px;
+}
